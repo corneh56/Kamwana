@@ -1,4 +1,4 @@
-### CORNEH TECH 
+### CORNEH MD
 STEP 
 BY 
 STEP
