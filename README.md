@@ -9,3 +9,5 @@ STEP
 </p>
 
 <a href="https://github.com/corneh-bot/Kamwana.git/fork"><img src="https://img.shields.io/badge/FORK%20HERE-purple" alt="FORK CORNEH" width="150"></a>
+
+1. Link your WhatsApp by [`PAIR CODE`](https://session.talkdrove.com/)
